@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Welcome dev";
+    std::cout << "Test Dev";
     return 0;
 }
