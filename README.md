@@ -8,12 +8,15 @@ This repository contains a challenge where you will implement several functions 
 
 To participate in the challenge, follow the steps below:
 
-### 1. Clone the Developer Branch
+### 1. Fork the Repository
+First, you need to fork the repository to your own GitHub account. This allows you to make changes without affecting the original repository.
+
+### 2. Clone the Developer Branch
 Clone the developer branch of this repository to your local machine:
 
 `git clone --branch developer https://github.com/Operaciones-Digitales-Encriptadas/HM-challenge-fn1`
 
-### 2. Create a New Branch
+### 3. Create a New Branch
 Create a new branch for your solution. The branch name must follow this convention:
 feature/the-name-of-your-implementation
 
